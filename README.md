@@ -1,1 +1,2 @@
-# Programaci-n_C-
+# Programacion_C++
+#Juan Luis Gil Garrote
